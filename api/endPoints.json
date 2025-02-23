@@ -1,0 +1,15 @@
+{
+    "VOYAGES" : "/voyages",
+    "START" : "/start",
+    "COMPLETE" : "/complete",
+    "ODOMETER_IMAGE" : "/odometer-image",
+    "TRANSPORT_REQUESTS" : "/transport-requests",
+    "PASSENGERS" : "/passengers",
+    "TRANSPORT_REQUESTS_PASSENGERS" : "/transport-requests/passengers",
+    "PRESENT" : "/present",
+    "ABANDON" : "/abandon",
+    "REQUEST" : "/request",
+    "CANCEL" : "/cancel",
+    "APPROVE" : "/approve",
+    "ABSENT" : "/absent"
+}
